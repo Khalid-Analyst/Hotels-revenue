@@ -1,5 +1,8 @@
 # Hotel Revenue - Power BI Project
 
+![image](https://github.com/Khalid-Analyst/Hotels-revenue/assets/145170346/745ec82b-70cd-4fe6-964a-6a4b74daef46)
+
+
 
 ## Goal
 Develop a database to analyze and visualize hotel booking data.
