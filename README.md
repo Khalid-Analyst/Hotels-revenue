@@ -4,10 +4,6 @@
 
 
 
-
-## Requirements
-Build a visual data story or dashboard using Power BI to present to your stakeholders.
-
 ## Questions That We Need to Answer
 1. Is our hotel revenue growing?
 2. Should we increase our parking lot size?
