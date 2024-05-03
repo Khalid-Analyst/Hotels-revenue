@@ -4,8 +4,6 @@
 
 
 
-## Goal
-Develop a database to analyze and visualize hotel booking data.
 
 ## Requirements
 Build a visual data story or dashboard using Power BI to present to your stakeholders.
